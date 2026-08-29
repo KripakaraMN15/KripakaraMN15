@@ -106,12 +106,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KripakaraMN15&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KripakaraMN15&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -121,11 +121,12 @@
 <details>
 <summary>📈 Detailed Commit Graph (click to expand)</summary>
 <br>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=github-compact&hide_border=true&area=true" alt="Commit Graph" />
 </p>
-</details>
 
+</details>
 ---
 
 ### 🎯 Currently
