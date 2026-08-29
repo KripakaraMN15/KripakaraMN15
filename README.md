@@ -92,13 +92,14 @@
   </a>
 </p>
 
-> ⚠️ **Repo names must match exactly** — if any card above shows "Repository not found," the repo name in the URL doesn't match your actual repo name on GitHub. Check each URL against your real repo list and fix before publishing.
+
+### 🚀 Featured Projects
 
 | Project | Live Demo | What it does |
 |---|---|---|
-| 🧾 **BillaraAI** | [Live](https://billaraai-166180432228.asia-southeast1.run.app/) | AI-powered invoicing — text/audio briefs to invoices in under 3 seconds (~85% faster) |
-| 📊 **LiveDataViz** |[Live](https://dataliveviz-1050064655758.asia-southeast1.run.app/)| Natural language → working Vega-Lite chart specs |
-| ✈️ **TripBuddy** | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner — flights, hotels, weather, itinerary |
+| 🧾 [**BillaraAI**](https://github.com/KripakaraMN15/BillaraAI) | [Live](https://billaraai-166180432228.asia-southeast1.run.app/) | AI-powered invoicing — text/audio briefs to invoices in under 3 seconds (~85% faster) |
+| 📊 [**LiveDataViz**](https://github.com/KripakaraMN15/LiveDataViz) | [Live](https://dataliveviz-1050064655758.asia-southeast1.run.app/) | Natural language → working Vega-Lite chart specs |
+| ✈️ [**TripBuddy**](https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner) | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner — flights, hotels, weather, itinerary |
 
 ---
 
