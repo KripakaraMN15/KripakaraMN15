@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer 🚀 | AI Engineer 🤖 | Building things that (mostly) work on the first try</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=600&lines=Ex-Samsung+R%26D+Intern;98.48%25+Accuracy+NLP+Pipeline+%F0%9F%8E%AF;Building+AI+Products+with+LangGraph+%26+RAG;Currently+Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=600&lines=Ex-Samsung+R%26D+Intern;98.48%25+Accuracy+NLP+Pipeline+%F0%9F%[...]
 </p>
 
 <p align="center">
@@ -76,33 +76,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/KripakaraMN15/BillaraAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=BillaraAI&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/KripakaraMN15/LiveDataViz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=LiveDataViz&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/KripakaraMN15/TripBuddy-multiagent-travel-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=TripBuddy-multiagent-travel-planner&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-
-### 🚀 Featured Projects
-
-| Project | Live Demo | What it does |
-|---|---|---|
-| 🧾 [**BillaraAI**](https://github.com/KripakaraMN15/BillaraAI) | [Live](https://billaraai-166180432228.asia-southeast1.run.app/) | AI-powered invoicing — text/audio briefs to invoices in under 3 seconds (~85% faster) |
-| 📊 [**LiveDataViz**](https://github.com/KripakaraMN15/LiveDataViz) | [Live](https://dataliveviz-1050064655758.asia-southeast1.run.app/) | Natural language → working Vega-Lite chart specs |
-| ✈️ [**TripBuddy**](https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner) | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner — flights, hotels, weather, itinerary |
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -127,6 +100,17 @@
 </p>
 
 </details>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Live Demo | What it does |
+|---|---|---|
+| 🧾 [**BillaraAI**](https://github.com/KripakaraMN15/BillaraAI) | [Live](https://billaraai-166180432228.asia-southeast1.run.app/) | AI-powered invoicing — text/audio briefs to invoices in under 3 seconds |
+| 📊 [**LiveDataViz**](https://github.com/KripakaraMN15/LiveDataViz) | [Live](https://dataliveviz-1050064655758.asia-southeast1.run.app/) | Natural language → working Vega-Lite chart specs |
+| ✈️ [**TripBuddy**](https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner) | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner with voice & text input |
+
 ---
 
 ### 🎯 Currently
