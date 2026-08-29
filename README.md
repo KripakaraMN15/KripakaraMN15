@@ -51,13 +51,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>AI / GenAI</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=langchain" />&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />&nbsp;
-      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=for-the-badge" />&nbsp;
-      <img src="https://img.shields.io/badge/MCP-00A67E?style=for-the-badge" />
-    </td>
+          <td align="center"><b>AI / GenAI</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-00A67E?style=for-the-badge&logoColor=white" />
+      </td>
   </tr>
   <tr>
     <td align="center"><b>Cloud & Tools</b></td>
