@@ -74,32 +74,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KripakaraMN15&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
-<details>
-<summary>📈 Detailed Commit Graph (click to expand)</summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=github-compact&hide_border=true&area=true" alt="Commit Graph" />
-</p>
-
-</details>
 
 ---
 
@@ -112,6 +86,19 @@
 | ✈️ [**TripBuddy**](https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner) | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner with voice & text input |
 
 ---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KripakaraMN15&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 
 ### 🎯 Currently
 
