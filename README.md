@@ -74,9 +74,9 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧾 **[BillaraAI](#)** | Turns text/audio briefs into invoices in under 3 seconds (~85% faster than doing it by hand) | React, TypeScript, Firebase, Gemini AI |
-| 📊 **[LiveDataViz](#)** | Type what chart you want in plain English, get a working Vega-Lite spec back | React, Vega-Lite, OpenAI API |
-| ✈️ **[TripBuddy](#)** | 5 AI agents argue about your flights, hotels, and budget so you don't have to | Python, LangGraph, MCP, FastAPI |
+| 🧾 **[BillaraAI](https://billaraai-166180432228.asia-southeast1.run.app/)** | Turns text/audio briefs into invoices in under 3 seconds (~85% faster than doing it by hand) | React, TypeScript, Firebase, Gemini AI |
+| 📊 **[LiveDataViz](https://dataliveviz-1050064655758.asia-southeast1.run.app/)** | Type what chart you want in plain English, get a working Vega-Lite spec back | React, Vega-Lite, OpenAI API |
+| ✈️ **[TripBuddy](https://tripbuddy-multiagent-travel-planner-1.onrender.com/)** | 5 AI agents argue about your flights, hotels, and budget so you don't have to | Python, LangGraph, MCP, FastAPI |
 
 > 🔗 Swap the `#` links above for your actual repo URLs before publishing!
 
