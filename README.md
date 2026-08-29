@@ -15,23 +15,26 @@
   <img src="https://komarev.com/ghpvc/?username=KripakaraMN15&label=Profile%20Views&color=8AFF80&style=flat-square" alt="Profile views" />
 </p>
 
----
+🧑‍💻 About Me
 
-### 🧑‍💻 About Me
+🔭 Full-Stack Developer with production experience at Samsung R&D and CodeIO
 
-- 🔭 Full-Stack Developer with production experience at **Samsung R&D** and **CodeIO**
-- 🧠 Built an NLP pipeline for voice command detection that hit **98.48% accuracy** — outperformed standalone ALBERT by ~2.5% using a 3-model ensemble, then compressed it to **46MB** for real-world deployment
-- 🏗️ Shipped a role-based exam management platform used by **5,500+ students**
-- 🤖 Ship AI products on my own time too — invoicing that reads your voice notes, charts that understand plain English, and a travel planner with a small army of AI agents doing the planning for me
-- 🏆 Finalist — Magicpin Vera AI Challenge (2026)
-- 📍 Based in Mangaluru, India
-- 💬 Ask me about LangGraph, RAG, multi-agent systems, or why model compression is secretly the fun part
+🧠 Built an NLP pipeline for voice command detection that hit 98.48% accuracy — outperformed standalone ALBERT by ~2.5% using a 3-model ensemble, then compressed it to 46MB for real-world deployment
 
----
+🏗️ Shipped a role-based exam management platform used by 5,500+ students
 
-### 🛠️ Tech Stack
+🤖 Ship AI products on my own time too — invoicing that reads your voice notes, charts that understand plain English, and a travel planner with a small army of AI agents doing the planning for me
 
-**Languages**
+🏆 Finalist — Magicpin Vera AI Challenge (2026)
+
+📍 Based in Mangaluru, India
+
+💬 Ask me about LangGraph, RAG, multi-agent systems, or why model compression is secretly the fun part
+
+🛠️ Tech Stack
+
+Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
@@ -39,7 +42,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-**Frontend**
+Frontend
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -48,7 +52,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-**Backend**
+Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -57,7 +62,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-**AI / GenAI**
+AI / GenAI
+
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
@@ -66,7 +72,8 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=flat-square" />
 </p>
 
-**Cloud & Tools**
+Cloud & Tools
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -74,9 +81,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
----
-
-### 🚀 Featured Projects
+🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/KripakaraMN15/BillaraAI">
@@ -86,54 +91,59 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=LiveDataViz&theme=github_dark&hide_border=true" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/KripakaraMN15/TripBuddy-multiagent-travel-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=TripBuddy-multiagent-travel-planner&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=TripBuddy-MultiAgent-Travel-Planner&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
-> ⚠️ **Repo names must match exactly** — if any card above shows "Repository not found," the repo name in the URL doesn't match your actual repo name on GitHub. Check each URL against your real repo list and fix before publishing.
+Project
 
-| Project | Live Demo | What it does |
-|---|---|---|
-| 🧾 **BillaraAI** | [Live](https://billaraai-166180432228.asia-southeast1.run.app/) | AI-powered invoicing — text/audio briefs to invoices in under 3 seconds (~85% faster) |
-| 📊 **LiveDataViz** |[Live](https://dataliveviz-1050064655758.asia-southeast1.run.app/)| Natural language → working Vega-Lite chart specs |
-| ✈️ **TripBuddy** | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner — flights, hotels, weather, itinerary |
+Live Demo
 
----
+What it does
 
-### 📊 GitHub Analytics
+🧾 BillaraAI
+
+Live
+
+AI-powered invoicing — text/audio briefs to invoices in under 3 seconds (~85% faster)
+
+📊 LiveDataViz
+
+Live
+
+Natural language → working Vega-Lite chart specs
+
+✈️ TripBuddy
+
+Live
+
+Multi-agent AI travel planner — flights, hotels, weather, itinerary
+
+📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KripakaraMN15&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KripakaraMN15&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
-<details>
-<summary>📈 Detailed Commit Graph (click to expand)</summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=github-compact&hide_border=true&area=true" alt="Commit Graph" />
-</p>
-</details>
+🎯 Currently
 
----
+🟢 Open to full-time Software Engineer / AI Engineer roles
 
-### 🎯 Currently
+📚 Leveling up on multi-agent orchestration and production RAG systems
 
-- 🟢 **Open to full-time Software Engineer / AI Engineer roles**
-- 📚 Leveling up on multi-agent orchestration and production RAG systems
-- 💡 Always down to talk about AI products, weird engineering tradeoffs, or your latest side project
-
----
+💡 Always down to talk about AI products, weird engineering tradeoffs, or your latest side project
 
 <p align="center">
   <a href="https://kripakara-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-8AFF80?style=for-the-badge&logo=vercel&logoColor=black" /></a>
