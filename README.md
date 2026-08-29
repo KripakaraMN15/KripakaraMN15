@@ -97,7 +97,7 @@
 | Project | Live Demo | What it does |
 |---|---|---|
 | 🧾 **BillaraAI** | [Live](https://billaraai-166180432228.asia-southeast1.run.app/) | AI-powered invoicing — text/audio briefs to invoices in under 3 seconds (~85% faster) |
-| 📊 **LiveDataViz** | — | Natural language → working Vega-Lite chart specs |
+| 📊 **LiveDataViz** |[Live](https://dataliveviz-1050064655758.asia-southeast1.run.app/)| Natural language → working Vega-Lite chart specs |
 | ✈️ **TripBuddy** | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner — flights, hotels, weather, itinerary |
 
 ---
