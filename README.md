@@ -11,12 +11,16 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KripakaraMN15&label=Profile%20Views&color=8AFF80&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
 
 - 🔭 Full-Stack Developer with production experience at **Samsung R&D** and **CodeIO**
-- 🧠 Built an NLP pipeline for voice command detection that hit **98.48% accuracy** — outperformed standalone ALBERT by ~2.5% using a 3-model ensemble, then squeezed it down to **46MB** for real-world deployment
+- 🧠 Built an NLP pipeline for voice command detection that hit **98.48% accuracy** — outperformed standalone ALBERT by ~2.5% using a 3-model ensemble, then compressed it to **46MB** for real-world deployment
 - 🏗️ Shipped a role-based exam management platform used by **5,500+ students**
 - 🤖 Ship AI products on my own time too — invoicing that reads your voice notes, charts that understand plain English, and a travel planner with a small army of AI agents doing the planning for me
 - 🏆 Finalist — Magicpin Vera AI Challenge (2026)
@@ -48,6 +52,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
@@ -57,6 +62,7 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-00A67E?style=flat-square" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=flat-square" />
 </p>
 
@@ -72,17 +78,31 @@
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🧾 **[BillaraAI](https://billaraai-166180432228.asia-southeast1.run.app/)** | Turns text/audio briefs into invoices in under 3 seconds (~85% faster than doing it by hand) | React, TypeScript, Firebase, Gemini AI |
-| 📊 **[LiveDataViz](https://dataliveviz-1050064655758.asia-southeast1.run.app/)** | Type what chart you want in plain English, get a working Vega-Lite spec back | React, Vega-Lite, OpenAI API |
-| ✈️ **[TripBuddy](https://tripbuddy-multiagent-travel-planner-1.onrender.com/)** | 5 AI agents argue about your flights, hotels, and budget so you don't have to | Python, LangGraph, MCP, FastAPI |
+<p align="center">
+  <a href="https://github.com/KripakaraMN15/BillaraAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=BillaraAI&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/KripakaraMN15/LiveDataViz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=LiveDataViz&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/KripakaraMN15/TripBuddy-multiagent-travel-planner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=TripBuddy-multiagent-travel-planner&theme=github_dark&hide_border=true" />
+  </a>
+</p>
 
-> 🔗 Swap the `#` links above for your actual repo URLs before publishing!
+> ⚠️ **Repo names must match exactly** — if any card above shows "Repository not found," the repo name in the URL doesn't match your actual repo name on GitHub. Check each URL against your real repo list and fix before publishing.
+
+| Project | Live Demo | What it does |
+|---|---|---|
+| 🧾 **BillaraAI** | [Live](https://billaraai-166180432228.asia-southeast1.run.app/) | AI-powered invoicing — text/audio briefs to invoices in under 3 seconds (~85% faster) |
+| 📊 **LiveDataViz** | — | Natural language → working Vega-Lite chart specs |
+| ✈️ **TripBuddy** | [Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) | Multi-agent AI travel planner — flights, hotels, weather, itinerary |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
@@ -90,12 +110,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KripakaraMN15&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" />
 </p>
+
+<details>
+<summary>📈 Detailed Commit Graph (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=github-compact&hide_border=true&area=true" alt="Commit Graph" />
+</p>
+</details>
 
 ---
 
@@ -108,7 +136,7 @@
 ---
 
 <p align="center">
-  <a href="https://kripakara-m-n-portfolio.ai.studio/"><img src="https://img.shields.io/badge/Portfolio-8AFF80?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://kripakara-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-8AFF80?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by — now go build something. 🛠️</i></p>
