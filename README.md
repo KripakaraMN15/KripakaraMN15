@@ -115,7 +115,7 @@
 ---
 
 <p align="center">
-  <a href="https://kripakara-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-8AFF80?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://kripakara-mn.ai.studio/"><img src="https://img.shields.io/badge/Portfolio-8AFF80?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by — now go build something. 🛠️</i></p>
