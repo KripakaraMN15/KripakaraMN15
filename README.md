@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8AFF80&height=200&section=header&text=Kripakara%20M%20N&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Engineer&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:8AFF80&height=200&section=header&text=Kripakara%20M%20N&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer&descSize=20&descColor=ffffff&descAlignY=60" width="100%" alt="Kripakara M N - Full-Stack and AI Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=650&lines=Ex-Samsung+R%26D+Intern;98.48%25+accuracy+NLP+ensemble+(46MB);Built+an+exam+platform+for+5%2C500%2B+students;Multi-agent+AI+%7C+RAG+%7C+MCP" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AFF80&center=true&vCenter=true&width=650&lines=Ex-Samsung+R%26D+Intern;98.48%25+accuracy+NLP+ensemble;5%2C500%2B+students+served;Multi-agent+AI+and+RAG+systems" alt="Typing animation" />
 
 <br/><br/>
 
@@ -70,31 +70,68 @@ Voice-to-invoice, chat-to-chart, and a 5-agent travel planner.
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,postman&theme=dark" /><br/><br/>
 
 **AI / GenAI**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-00A67E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangSmith-F26B21?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch" />
+<img src="assets/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face" />
+<img src="assets/icons/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph" />
+<img src="assets/icons/langsmith.svg" width="48" height="48" alt="LangSmith" title="LangSmith" />
+<img src="assets/icons/gemini.svg" width="48" height="48" alt="Gemini" title="Gemini" />
+<img src="assets/icons/mcp.svg" width="48" height="48" alt="MCP" title="Model Context Protocol" />
+<img src="assets/icons/rag.svg" width="48" height="48" alt="RAG" title="RAG" />
+<img src="assets/icons/multi-agent.svg" width="48" height="48" alt="Multi-agent systems" title="Multi-agent systems" />
+<br/>
+<sub>PyTorch · Hugging Face · LangGraph · LangSmith · Gemini · MCP · RAG · Multi-agent systems</sub>
 
 </div>
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/KripakaraMN15/BillaraAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=BillaraAI&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/KripakaraMN15/LiveDataViz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=LiveDataViz&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KripakaraMN15&repo=TripBuddy-MultiAgent-Travel-Planner&theme=tokyonight&hide_border=true" /></a>
+### 🧾 [BillaraAI](https://github.com/KripakaraMN15/BillaraAI)
+Text or voice brief to a structured invoice in seconds, about 65% faster than manual entry. Secure server-side API proxy, Firestore RBAC, rate limiting, PDF and email export.
 
-</div>
+`React` `TypeScript` `Firebase` `Gemini`
 
-- 🧾 **BillaraAI** ([Live](https://billaraai-166180432228.asia-southeast1.run.app/)): text or voice brief to invoice in seconds, ~65% faster than manual entry. React, TypeScript, Firebase, Gemini
-- 📊 **LiveDataViz** ([Live](https://dataliveviz-1050064655758.asia-southeast1.run.app/)): natural language to Vega-Lite charts, ~80% faster. Hybrid RAG (Gemini embeddings + BM25)
-- ✈️ **TripBuddy** ([Live](https://tripbuddy-multiagent-travel-planner-1.onrender.com/)): 5 LangGraph agents, 9 workflow nodes, 3 MCP data providers, human-in-the-loop booking approval
-- 🛡️ **ContractBreaker**: open-source tool that exposes duplicate-payment risks in Python HTTP clients. 319 tests, 42 benchmarks. *OpenFire Hackathon finalist*
+[🔗 Live demo](https://billaraai-166180432228.asia-southeast1.run.app/) · [📂 Code](https://github.com/KripakaraMN15/BillaraAI)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [LiveDataViz](https://github.com/KripakaraMN15/LiveDataViz)
+Natural language to working Vega-Lite charts, about 80% faster. A hybrid RAG (Gemini embeddings + BM25) grounds the LLM in your uploaded data.
+
+`React` `RAG` `BM25` `Vega-Lite`
+
+[🔗 Live demo](https://dataliveviz-1050064655758.asia-southeast1.run.app/) · [📂 Code](https://github.com/KripakaraMN15/LiveDataViz)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ [TripBuddy](https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner)
+5 LangGraph agents across 9 workflow nodes with supervisor routing, 3 live data providers via MCP, and human-in-the-loop approval for bookings.
+
+`LangGraph` `FastAPI` `PostgreSQL` `MCP` `Docker`
+
+[🔗 Live demo](https://tripbuddy-multiagent-travel-planner-1.onrender.com/) · [📂 Code](https://github.com/KripakaraMN15/TripBuddy-MultiAgent-Travel-Planner)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [ContractBreaker](https://github.com/KripakaraMN15/ContractBreaker)
+Open-source reliability tool that exposes duplicate-payment risks in Python HTTP clients through failure simulation and retry analysis. 319 tests, 42 benchmark cases. **OpenFire Hackathon finalist.**
+
+`Python` `pytest`
+
+[📂 Code](https://github.com/KripakaraMN15/ContractBreaker)
+
+</td>
+</tr>
+</table>
 
 <!-- ================= EXPERIENCE ================= -->
 ## 💼 Experience
@@ -109,16 +146,9 @@ Voice-to-invoice, chat-to-chart, and a 5-agent travel planner.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KripakaraMN15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KripakaraMN15&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=KripakaraMN15&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KripakaraMN15&theme=react-dark&hide_border=true&area=true&color=8AFF80&line=8AFF80&point=FFFFFF" width="100%" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KripakaraMN15&theme=tokyonight" alt="Profile details" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KripakaraMN15&theme=tokyonight" alt="Languages by repository" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KripakaraMN15&theme=tokyonight" alt="Languages by commit" />
 
 </div>
 
