@@ -19,7 +19,7 @@
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
 
-I'm a software engineer with industry experience at **Samsung R&D** and **CodeIO**. I like the full path from model to product: training and compressing models, then wrapping them in apps people actually use.
+I'm a software engineer with internship experience at **Samsung R&D** and **CodeIO**. I like the full path from model to product: training and compressing models, then wrapping them in apps people actually use.
 
 <table>
 <tr>
