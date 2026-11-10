@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Multi-agent systems">
+<title>Multi-agent systems</title>
+<rect width="48" height="48" rx="10" fill="#242938"/>
+<g transform="translate(10,10) scale(1.16667)"><g stroke="#8AFF80" stroke-width="1.6" stroke-linecap="round" fill="none">
+<path d="M12 12L5 5.5M12 12l7-6.5M12 12v8"/></g>
+<g fill="#8AFF80"><circle cx="12" cy="12" r="3"/><circle cx="5" cy="5" r="2.1"/><circle cx="19" cy="5" r="2.1"/><circle cx="12" cy="20.5" r="2.1"/></g></g>
+</svg>

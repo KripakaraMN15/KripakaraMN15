@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="RAG">
+<title>RAG</title>
+<rect width="48" height="48" rx="10" fill="#242938"/>
+<g transform="translate(10,10) scale(1.16667)"><g fill="none" stroke="#8AFF80" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M5 3h9l4 4v4"/><path d="M5 3v16h5"/><path d="M8.5 8h5M8.5 12h3"/>
+<circle cx="15.5" cy="15.5" r="3.6"/><path d="M18.2 18.2l3 3"/></g></g>
+</svg>
